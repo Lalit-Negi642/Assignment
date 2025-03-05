@@ -1,10 +1,12 @@
 package assignment;
 
-public class Assignment1_DataTypes {
+public class Demo {
 
 	public static void main(String[] args) {
 		
-    
+		System.out.println("Hello, World");
+		
+
 	}
 
 }
